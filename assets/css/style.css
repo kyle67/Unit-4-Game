@@ -3,7 +3,7 @@ body{
 	background-image: url("../images/background.png")
 }
 div{
-	background-color: white;
+	background-color: blueviolet;
 	margin: 10px;
 	width: 25%
 }
@@ -16,7 +16,7 @@ h1, h3, span{
 	text-align: center;
 }
 h1{
-	font-size: 30pt;
+	font-size: 40pt;
 }
 ol{
 	list-style: decimal inside; 
